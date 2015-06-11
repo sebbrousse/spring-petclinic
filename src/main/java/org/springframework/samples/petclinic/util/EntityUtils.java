@@ -20,7 +20,7 @@ import java.util.Collection;
 
 import org.springframework.orm.ObjectRetrievalFailureException;
 import org.springframework.samples.petclinic.model.BaseEntity;
-
+jvnjdfmsvpoifsdjovijdqsfmkoinvjkmqdfnvmlkjqdfn,lùkjffl
 /**
  * Utility methods for handling entities. Separate from the BaseEntity class mainly because of dependency on the
  * ORM-associated ObjectRetrievalFailureException.
